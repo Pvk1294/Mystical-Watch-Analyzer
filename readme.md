@@ -75,12 +75,6 @@ Designed, developed, and deployed the entire system — from authentication and 
 
 ---
 
-### 📍 Status  
-✅ Completed (Internal Demo Ready)  
-🚀 Next Step: Admin Panel for user and credit management
-
----
-
 ### 💻 Live Demo  
 *(Private Deployment — access available upon request)*
 
