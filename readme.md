@@ -89,10 +89,17 @@ Designed, developed, and deployed the entire system — from authentication and 
 ### 📸 Preview Suggestions  
 Include screenshots for:  
 - Login Page  
+
 ![alt text](image.png)
-- Upload Screen  ![alt text](image-1.png)
-- Analysis Report View  ![alt text](image-2.png)
-- Dashboard of Previous Reports  ![alt text](image-3.png)
+
+- Upload Screen  
+![alt text](image-1.png)
+
+- Analysis Report View  
+![alt text](image-2.png)
+
+- Dashboard of Previous Reports  
+![alt text](image-3.png)
 
 ---
 
