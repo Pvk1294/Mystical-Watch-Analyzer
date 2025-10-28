@@ -75,11 +75,6 @@ Designed, developed, and deployed the entire system — from authentication and 
 
 ---
 
-### 💻 Live Demo  
-*https://kabir-kove.web.app/*
-
----
-
 ### 📸 Preview Suggestions  
 Include screenshots for:  
 - Login Page  
