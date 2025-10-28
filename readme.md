@@ -76,7 +76,7 @@ Designed, developed, and deployed the entire system — from authentication and 
 ---
 
 ### 💻 Live Demo  
-*(Private Deployment — access available upon request)*
+*https://kabir-kove.web.app/*
 
 ---
 
